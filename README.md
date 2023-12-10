@@ -1,4 +1,17 @@
 ### Hi there 👋
+### Thanks for visiting my profile. I'm a Software Engineer based in Helsinki.
+
+## How to reach me:
+- GitHub: https://github.com/ShakimAhamed
+- LinkedIn: https://www.linkedin.com/in/shakim-ahamed-452493180/
+- Email: sakimahamed7@gmail.com
+
+## My CV/Resume:
+
+You can see and download the pdf copy of my latest resume from below 👇
+
+- [Google Drive](https://drive.google.com/file/d/1jZU_SVb8Miw3s2IJsxe2wq3ltw6DiEH8/view?usp=sharing)
+
 
 <!--
 **ShakimAhamed/ShakimAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
