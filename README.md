@@ -10,7 +10,7 @@
 
 You can see and download the pdf copy of my latest resume from below 👇
 
-- [Google Drive]([https://drive.google.com/file/d/1jZU_SVb8Miw3s2IJsxe2wq3ltw6DiEH8/view?usp=sharing](https://drive.google.com/file/d/15-ZNVbTuKHGnTZ03SmYYFnhpJQLCNJ1k/view?usp=sharing))
+- [Google Drive](https://drive.google.com/file/d/15-ZNVbTuKHGnTZ03SmYYFnhpJQLCNJ1k/view?usp=sharing)
 - [GitHub view](https://github.com/ShakimAhamed/ShakimAhamed/tree/Shakim-Ahamed/ShakimAhamedCV.pdf)
 
 <!--
