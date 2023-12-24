@@ -11,7 +11,7 @@
 You can see and download the pdf copy of my latest resume from below 👇
 
 - [Google Drive](https://drive.google.com/file/d/1cfgHo6TqAxIZc5TfUx_uupLOhd_Geq6y/view?usp=sharing)
-- [GitHub view](https://github.com/ShakimAhamed/ShakimAhamed/tree/Shakim-Ahamed/ShakimAhamedCVOrginalCopy.pdf)
+- [GitHub view](https://github.com/ShakimAhamed/ShakimAhamed/tree/Shakim-Ahamed/ShakimAhamedCVOrginalCopy.pdf) 
 
 <!--
 **ShakimAhamed/ShakimAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
