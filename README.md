@@ -35,7 +35,7 @@ A high-performance React application handling **10,000+ records** with optimized
 Build a high performance smart data table which is handeling 10,000+ rows using (Angular CDK, Signals, OnPush change and trackBy)
 
 🔗 Live: https://smartdatatable.netlify.app
-📂 Code: https://github.com/ShakimAhamed/SmartDataTable  
+📂 Code: https://github.com/ShakimAhamed/SmartDataTable
 ---
 
 ## 📫 Connect With Me
