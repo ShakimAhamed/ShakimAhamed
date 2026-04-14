@@ -31,11 +31,6 @@ A high-performance React application handling **10,000+ records** with optimized
 🔗 Live: https://trademarkdashboard.netlify.app  
 📂 Code: https://github.com/ShakimAhamed/TrademarkDashboard  
 
-### 🚀 Smart Data Table (Angular 17+)
-Build a high performance smart data table which is handeling 10,000+ rows using (Angular CDK, Signals, OnPush change and trackBy)
-
-🔗 Live: https://smartdatatable.netlify.app
-📂 Code: https://github.com/ShakimAhamed/SmartDataTable
 ---
 
 ## 📫 Connect With Me
