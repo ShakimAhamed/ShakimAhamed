@@ -1,29 +1,44 @@
-### Hi there 👋
-### Thanks for visiting my profile. I'm a Software Engineer based in Helsinki.
+# Hi 👋 I'm Shakim
 
-## How to reach me:
-- GitHub: https://github.com/ShakimAhamed
+Frontend Software Engineer based in Finland 🇫🇮  
+I specialize in building **scalable, high-performance web applications** using modern frontend technologies.
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ React, Angular, TypeScript  
+- 🎨 Tailwind CSS, SCSS  
+- 🔄 RxJS, NgRx, React Query  
+- 🌐 REST APIs, Microservices  
+- ☁️ AWS, Docker  
+
+---
+
+## 🧠 What I Focus On
+
+- Building **data-intensive UI applications**
+- Performance optimization for large-scale systems  
+- Clean, maintainable, and scalable frontend architecture  
+
+---
+
+## 🔥 Featured Project
+
+### 🚀 Trademark Intelligence Dashboard
+A high-performance React application handling **10,000+ records** with optimized rendering and modern UI design.
+
+🔗 Live: https://trademarkdashboard.netlify.app  
+📂 Code: https://github.com/ShakimAhamed/TrademarkDashboard  
+
+### 🚀 Smart Data Table (Angular 17+)
+Build a high performance smart data table which is handeling 10,000+ rows using (Angular CDK, Signals, OnPush change and trackBy)
+
+🔗 Live: https://smartdatatable.netlify.app
+📂 Code: https://github.com/ShakimAhamed/SmartDataTable  
+---
+
+## 📫 Connect With Me
+
 - LinkedIn: https://www.linkedin.com/in/shakim-ahamed-452493180/
 - Email: sakimahamed7@gmail.com
-
-## My CV/Resume:
-
-You can see and download the pdf copy of my latest resume from below 👇
-
-- [Google Drive](https://drive.google.com/file/d/1cfgHo6TqAxIZc5TfUx_uupLOhd_Geq6y/view?usp=sharing)
-- [GitHub view](https://github.com/ShakimAhamed/ShakimAhamed/tree/Shakim-Ahamed/ShakimAhamedCVOrginalCopy.pdf) 
-
-<!--
-**ShakimAhamed/ShakimAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
