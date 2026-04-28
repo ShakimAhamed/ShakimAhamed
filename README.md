@@ -1,39 +1,70 @@
 # Hi 👋 I'm Shakim
 
-Frontend Software Engineer based in Finland 🇫🇮  
-I specialize in building **scalable, high-performance web applications** using modern frontend technologies.
+🚀 Frontend Software Engineer | React | TypeScript | Node.js  
+🇫🇮 Based in Finland  
+
+I build **scalable, high-performance web applications** with a strong focus on **data-driven UI, performance optimization, and clean architecture**.
 
 ---
 
 ## 🚀 Tech Stack
 
-- ⚛️ React, Angular, TypeScript  
-- 🎨 Tailwind CSS, SCSS  
-- 🔄 RxJS, NgRx, React Query  
-- 🌐 REST APIs, Microservices  
-- ☁️ AWS, Docker  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ## 🧠 What I Focus On
 
-- Building **data-intensive UI applications**
-- Performance optimization for large-scale systems  
-- Clean, maintainable, and scalable frontend architecture  
+- ⚡ Building data-intensive UI applications  
+- 📈 Performance optimization for large-scale systems  
+- 🧩 Scalable frontend architecture  
+- 🎯 Clean, maintainable code  
+- 🔐 Full-stack application development  
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
+
+### 🎮 Quiz Arena (Full-Stack)
+A production-ready quiz platform with authentication, real-time gameplay logic, scoring system, and scalable architecture.
+
+🔗 Live: https://quiz-arena-rouge.vercel.app  
+📂 Code: https://github.com/ShakimAhamed/quiz-arena  
+
+---
 
 ### 🚀 Trademark Intelligence Dashboard
-A high-performance React application handling **10,000+ records** with optimized rendering and modern UI design.
+High-performance React application handling **10,000+ records**, optimized with virtualization and scalable UI architecture.
 
 🔗 Live: https://trademarkdashboard.netlify.app  
 📂 Code: https://github.com/ShakimAhamed/TrademarkDashboard  
 
 ---
 
+## 💡 What This Profile Demonstrates
+
+- Full-stack application development  
+- Authentication systems (JWT)  
+- Real-time UI state management  
+- Performance optimization techniques  
+- Scalable frontend architecture design  
+
+---
+
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/shakim-ahamed-452493180/
-- Email: sakimahamed7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shakim-ahamed-452493180/  
+- Email: sakimahamed7@gmail.com  
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
