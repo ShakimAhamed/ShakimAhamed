@@ -50,13 +50,12 @@ High-performance React application handling **10,000+ records**, optimized with 
 
 ---
 
-## 💡 What This Profile Demonstrates
+⚡ Smart Data Table
+High-performance data table handling 10,000+ rows using Angular 17, CDK Virtual Scrolling, and reactive Signals state management.
+🔗 Live: https://smartdatatable.netlify.app
+📂 Code: https://github.com/ShakimAhamed/SmartDataTable
 
-- Full-stack application development  
-- Authentication systems (JWT)  
-- Real-time UI state management  
-- Performance optimization techniques  
-- Scalable frontend architecture design  
+---
 
 ---
 
@@ -67,4 +66,3 @@ High-performance React application handling **10,000+ records**, optimized with 
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!
