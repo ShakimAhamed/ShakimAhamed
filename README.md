@@ -50,8 +50,9 @@ High-performance React application handling **10,000+ records**, optimized with 
 
 ---
 
-⚡ Smart Data Table
+### ⚡ Smart Data Table
 High-performance data table handling 10,000+ rows using Angular 17, CDK Virtual Scrolling, and reactive Signals state management.
+
 🔗 Live: https://smartdatatable.netlify.app
 📂 Code: https://github.com/ShakimAhamed/SmartDataTable
 
