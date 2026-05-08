@@ -1,9 +1,9 @@
 # Hi 👋 I'm Shakim
 
-🚀 Frontend Software Engineer | React | TypeScript | Node.js  
-🇫🇮 Based in Finland  
+🚀 **Frontend Engineer** based in Espoo, Finland 🇫🇮  
+I build **scalable, high-performance web applications** with a focus on clean architecture, reusable component systems, and intuitive user experiences.
 
-I build **scalable, high-performance web applications** with a strong focus on **data-driven UI, performance optimization, and clean architecture**.
+Currently exploring **LLM APIs and agentic UI patterns** — passionate about the intersection of modern frontend engineering and AI.
 
 ---
 
@@ -33,6 +33,18 @@ I build **scalable, high-performance web applications** with a strong focus on *
 ---
 
 ## 🔥 Featured Projects
+
+### 💬 SmartChat
+> AI chat application — React, TypeScript, TailwindCSS, Gemini API
+
+- Real-time AI chat powered by Google Gemini API
+- Multi-turn conversation with full context history
+- Secure API key handling — never stored or persisted
+- Dark/light mode, typing indicators, responsive design
+
+🔗 [Live Demo](https://smartchat007.netlify.app) · [GitHub](https://github.com/ShakimAhamed/SmartChat)
+
+---
 
 ### 🎮 Quiz Arena (Full-Stack)
 A production-ready quiz platform with authentication, real-time gameplay logic, scoring system, and scalable architecture.
