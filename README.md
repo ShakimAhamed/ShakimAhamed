@@ -1,6 +1,7 @@
 # Hi 👋 I'm Shakim
 
 🚀 **Frontend Engineer** based in Espoo, Finland 🇫🇮  
+
 I build **scalable, high-performance web applications** with a focus on clean architecture, reusable component systems, and intuitive user experiences.
 
 Currently exploring **LLM APIs and agentic UI patterns** — passionate about the intersection of modern frontend engineering and AI.
@@ -34,7 +35,7 @@ Currently exploring **LLM APIs and agentic UI patterns** — passionate about th
 
 ## 🔥 Featured Projects
 
-### 💬 SmartChat
+### 💬 SmartChat - AI/Gemini API
 > AI chat application — React, TypeScript, TailwindCSS, Gemini API
 
 - Real-time AI chat powered by Google Gemini API
